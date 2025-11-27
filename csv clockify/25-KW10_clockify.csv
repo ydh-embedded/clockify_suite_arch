@@ -1,17 +1,17 @@
 Project,Client,Description,Task,Email,Tags,Billable,Start Date,Start Time,Duration (hh:mm:ss)
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG VSR MP-Kalibrierung & LogData Dokumentation V-nom,,ydh-embedded@posteo.de,TH1&2 ,Yes,03.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG VSR MP-Kalibrierung & LogData Dokumentation V-nom,,ydh-embedded@posteo.de,TH3&4,Yes,03.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Modbus 2te Linie Nachrüstung & Implementierung,,ydh-embedded@posteo.de,TH1,Yes,03.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG DALI & Beleuchtungzonen Testlauf,,ydh-embedded@posteo.de,TH3,Yes,03.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG DALI & Beleuchtungzonen Testlauf,,ydh-embedded@posteo.de,TH4,Yes,03.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG SMI und Jalousie Testlauf und Fehlersuche,,ydh-embedded@posteo.de,TH3&4,Yes,04.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Kalibrierung EnOcean Sensorik,,ydh-embedded@posteo.de,TH1&2 ,Yes,04.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Schaltschrank Mängelbeseitigung,,ydh-embedded@posteo.de,TH1,Yes,04.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG SMI & Jalousie Test und Dokumentation,,ydh-embedded@posteo.de,TH1,Yes,04.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Schaltschrank Mängelbeseitigung,,ydh-embedded@posteo.de,TH1 ,Yes,05.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG SMI & Jalousie Test und Dokumentation,,ydh-embedded@posteo.de,TH1 ,Yes,05.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG SMI & Jalousie Test und Dokumentation,,ydh-embedded@posteo.de,TH2,Yes,05.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Kalibrierung EnOcean Sensorik & dokumentation,,ydh-embedded@posteo.de,TH1&2 ,Yes,05.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Kabelsuche,,ydh-embedded@posteo.de,TH1,Yes,06.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Kalibrierung EnOcean Sensorik,,ydh-embedded@posteo.de,TH1,Yes,06.03.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 6OG Kalibrierung EnOcean Sensorik,,ydh-embedded@posteo.de,TH1,Yes,06.03.2025,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG VSR MP-Kalibrierung & LogData Dokumentation V-nom,,ydh-embedded@posteo.de,TH1&2 ,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG VSR MP-Kalibrierung & LogData Dokumentation V-nom,,ydh-embedded@posteo.de,TH3&4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Modbus 2te Linie Nachrüstung & Implementierung,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG DALI & Beleuchtungzonen Testlauf,,ydh-embedded@posteo.de,TH3,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG DALI & Beleuchtungzonen Testlauf,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG SMI und Jalousie Testlauf und Fehlersuche,,ydh-embedded@posteo.de,TH3&4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Kalibrierung EnOcean Sensorik,,ydh-embedded@posteo.de,TH1&2 ,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Schaltschrank Mängelbeseitigung,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG SMI & Jalousie Test und Dokumentation,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Schaltschrank Mängelbeseitigung,,ydh-embedded@posteo.de,TH1 ,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG SMI & Jalousie Test und Dokumentation,,ydh-embedded@posteo.de,TH1 ,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG SMI & Jalousie Test und Dokumentation,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Kalibrierung EnOcean Sensorik & dokumentation,,ydh-embedded@posteo.de,TH1&2 ,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Kabelsuche,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Kalibrierung EnOcean Sensorik,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 6OG Kalibrierung EnOcean Sensorik,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00

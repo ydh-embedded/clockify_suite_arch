@@ -1,21 +1,21 @@
 Project,Client,Description,Task,Email,Tags,Billable,Start Date,Start Time,Duration (hh:mm:ss)
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Modbus Fehlersuche RBG,,ydh-embedded@posteo.de,TH2,Yes,27.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Modbus Fehlerbehebung RBG,,ydh-embedded@posteo.de,TH1,Yes,27.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG MP-Bus Fehlerbehebung Ventile,,ydh-embedded@posteo.de,TH1,Yes,27.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG MP-Bus Fehlersuche VSR ,,ydh-embedded@posteo.de,TH4,Yes,28.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG DALI Sensor ausgebaut,,ydh-embedded@posteo.de,TH2,Yes,28.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG SSM Phasenkontrolle ASP Fehlerbehebung ,,ydh-embedded@posteo.de,TH1,Yes,28.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG Fehlerbehung ASP01,,ydh-embedded@posteo.de,TH1,Yes,28.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 0OG ASP12 Fehlerfeststellung,,ydh-embedded@posteo.de,TH1,Yes,28.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG Fehlersuche MP-Bus,,ydh-embedded@posteo.de,TH2,Yes,28.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RBH Fehlersuche,,ydh-embedded@posteo.de,TH1,Yes,29.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG MP-Bus Fehlerbehung Heizventile Linie 2,,ydh-embedded@posteo.de,TH2,Yes,29.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG DALI Fehlerbehebung  ,,ydh-embedded@posteo.de,TH4,Yes,29.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG Raum-Temperatur Plausibilität kontrolliert,,ydh-embedded@posteo.de,TH4,Yes,29.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG & 1OG LHB Fehlerbehebung && Schaltschrank Revidiert,,ydh-embedded@posteo.de,"TH1,2",Yes,29.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG EnOcean Fehlersuche Sr-CO2 parametriert,,ydh-embedded@posteo.de,TH4,Yes,29.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG WebPanel && DALI Fehlerbehebung ,,ydh-embedded@posteo.de,TH1,Yes,30.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG MP-Bus Fehlerbehebung Ventile,,ydh-embedded@posteo.de,TH4,Yes,30.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG ASP9 Schaltschrank Verdrahtung korrigiert,,ydh-embedded@posteo.de,TH4,Yes,30.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RLT5 Fehlersuche,,ydh-embedded@posteo.de,TH4,Yes,30.10.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Reparatur MP-Bus Linie,,ydh-embedded@posteo.de,TH1,Yes,30.10.2025,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Modbus Fehlersuche RBG,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Modbus Fehlerbehebung RBG,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG MP-Bus Fehlerbehebung Ventile,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG MP-Bus Fehlersuche VSR ,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG DALI Sensor ausgebaut,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG SSM Phasenkontrolle ASP Fehlerbehebung ,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG Fehlerbehung ASP01,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 0OG ASP12 Fehlerfeststellung,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG Fehlersuche MP-Bus,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RBH Fehlersuche,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG MP-Bus Fehlerbehung Heizventile Linie 2,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG DALI Fehlerbehebung  ,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG Raum-Temperatur Plausibilität kontrolliert,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG & 1OG LHB Fehlerbehebung && Schaltschrank Revidiert,,ydh-embedded@posteo.de,"TH1,2",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG EnOcean Fehlersuche Sr-CO2 parametriert,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG WebPanel && DALI Fehlerbehebung ,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG MP-Bus Fehlerbehebung Ventile,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG ASP9 Schaltschrank Verdrahtung korrigiert,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RLT5 Fehlersuche,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 5OG Reparatur MP-Bus Linie,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00

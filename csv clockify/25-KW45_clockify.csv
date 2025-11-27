@@ -1,16 +1,16 @@
 Project,Client,Description,Task,Email,Tags,Billable,Start Date,Start Time,Duration (hh:mm:ss)
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Erstellung Thermokon Rücksendung inkl. Dokumentation,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,03.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 0EG ASP12 Phasenfolge geprüft,,ydh-embedded@posteo.de,TH1,Yes,03.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG MP-Bus Fehlersuche VSR ,,ydh-embedded@posteo.de,TH2,Yes,04.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG AdHoc RLT05 neue Sollwerte parametriert ,,ydh-embedded@posteo.de,TH1,Yes,04.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RLT01 Differenz-Druck Zuluft / Abluft besprochen,,ydh-embedded@posteo.de,TH1,Yes,04.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, GLT Störbeseitigung EnOcean Bus,,ydh-embedded@posteo.de,TH1,Yes,04.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs DALI Fehlerbeseitigung,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,04.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Fehlersuche EnOcean CO²-Sensorik,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,05.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RLT05 Fehlerbehebung ,,ydh-embedded@posteo.de,TH4,Yes,05.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RLT04 Fehlerbehebung,,ydh-embedded@posteo.de,TH4,Yes,05.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG AdHoc Fehlerbeseitigung DALI Beleuchtung miro,,ydh-embedded@posteo.de,TH2,Yes,05.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Fehlersuche EnOcean CO²-Sensorik,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,06.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG DALI Fehlerbeseitigung Beleuchtung Miro,,ydh-embedded@posteo.de,TH2,Yes,06.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG MP-Bus Fehlersuche Ventil Regelung,,ydh-embedded@posteo.de,TH2,Yes,06.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 6OG EnOcean Fehlerbeseitigung FK ,,ydh-embedded@posteo.de,TH1,Yes,06.11.2025,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Erstellung Thermokon Rücksendung inkl. Dokumentation,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 0EG ASP12 Phasenfolge geprüft,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG MP-Bus Fehlersuche VSR ,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG AdHoc RLT05 neue Sollwerte parametriert ,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RLT01 Differenz-Druck Zuluft / Abluft besprochen,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, GLT Störbeseitigung EnOcean Bus,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs DALI Fehlerbeseitigung,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Fehlersuche EnOcean CO²-Sensorik,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RLT05 Fehlerbehebung ,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1UG RLT04 Fehlerbehebung,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG AdHoc Fehlerbeseitigung DALI Beleuchtung miro,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Fehlersuche EnOcean CO²-Sensorik,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG DALI Fehlerbeseitigung Beleuchtung Miro,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG MP-Bus Fehlersuche Ventil Regelung,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 6OG EnOcean Fehlerbeseitigung FK ,,ydh-embedded@posteo.de,TH1,Yes,,08:00,00:00:00

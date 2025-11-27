@@ -1,16 +1,16 @@
 Project,Client,Description,Task,Email,Tags,Billable,Start Date,Start Time,Duration (hh:mm:ss)
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, UG1 Fehlersuche RLT05 → WRG,,ydh-embedded@posteo.de,TH3,Yes,18.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Fehlersuche warum der Bereich so kalt ist,,ydh-embedded@posteo.de,TH4,Yes,18.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Touche-Panel Visu Fehlersuche Anzeigewerte ,,ydh-embedded@posteo.de,TH3,Yes,18.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG EnOcean Antennen montiert und FK PtP,,ydh-embedded@posteo.de,"TH1,2",Yes,18.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Temp. Mängelbeseitigung,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,19.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, UG1 RLT05 Fehlerfeststellung Nacherhitzer Problematik,,ydh-embedded@posteo.de,TH4,Yes,19.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG EnOcean Antennen montiert und FK PtP,,ydh-embedded@posteo.de,"TH1,2",Yes,19.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OG1 MP-Bus Fehlersuche und manuelles Heizen Linie 3 ,,ydh-embedded@posteo.de,TH2 ,Yes,19.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs SSM Phasenkontroll-Überwachung Fehlerbehebung,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,19.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OG1 AdHoc DALI Lichtausfall Fehlerbehebung,,ydh-embedded@posteo.de,TH2 ,Yes,19.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG EnOcean Antennen montiert und FK PtP ,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,20.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG EnOcean PtP FK,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,20.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG Fehlersuche EnOcean Repeater,,ydh-embedded@posteo.de,TH2,Yes,20.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG EnOcean PtP FK ,,ydh-embedded@posteo.de,TH3,Yes,20.11.2025,08:00,00:00:00
-NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Phasenüberwachung Relais parametriert,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,20.11.2025,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, UG1 Fehlersuche RLT05 → WRG,,ydh-embedded@posteo.de,TH3,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Fehlersuche warum der Bereich so kalt ist,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG Touche-Panel Visu Fehlersuche Anzeigewerte ,,ydh-embedded@posteo.de,TH3,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG EnOcean Antennen montiert und FK PtP,,ydh-embedded@posteo.de,"TH1,2",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Temp. Mängelbeseitigung,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, UG1 RLT05 Fehlerfeststellung Nacherhitzer Problematik,,ydh-embedded@posteo.de,TH4,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 4OG EnOcean Antennen montiert und FK PtP,,ydh-embedded@posteo.de,"TH1,2",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OG1 MP-Bus Fehlersuche und manuelles Heizen Linie 3 ,,ydh-embedded@posteo.de,TH2 ,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs SSM Phasenkontroll-Überwachung Fehlerbehebung,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OG1 AdHoc DALI Lichtausfall Fehlerbehebung,,ydh-embedded@posteo.de,TH2 ,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 3OG EnOcean Antennen montiert und FK PtP ,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 2OG EnOcean PtP FK,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG Fehlersuche EnOcean Repeater,,ydh-embedded@posteo.de,TH2,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, 1OG EnOcean PtP FK ,,ydh-embedded@posteo.de,TH3,Yes,,08:00,00:00:00
+NEO - Schönhauser Allee 9,      yDh-embedded Inh. Danny Heinicke, OGs Phasenüberwachung Relais parametriert,,ydh-embedded@posteo.de,"TH1,2,3,4",Yes,,08:00,00:00:00
